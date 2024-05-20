@@ -1,5 +1,15 @@
 <b> Output </b>
 <br>
+<br>
+<br>
+
+<a href="https://github.com/IamPawan777/news_app/releases/download/1.0.0/app-release.apk">Download App</a>
+<br>
+<br>
+<br>
+<br>
+
+
 <b> Splash Screen </b>
 ![Screenshot_20240520-190605](https://github.com/IamPawan777/news_app/assets/112340386/625b8190-70c9-4a79-967b-6948fbefd881)
 <br>
