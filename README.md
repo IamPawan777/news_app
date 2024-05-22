@@ -1,13 +1,7 @@
 <b> Output </b>
 <br>
 <br>
-<br>
-
-<a href="https://github.com/IamPawan777/news_app/releases/download/1.0.0/app-release.apk">Download App</a>
-<br>
-<br>
-<br>
-<br>
+<br>
 
 
 <b> Splash Screen </b>
